@@ -6,4 +6,4 @@ public class FirstDialog {
         JOptionPane.showMessageDialog(null, "Hello world! How are you?");
         System.exit(0);
     }
-}
+} 
