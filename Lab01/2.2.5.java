@@ -10,7 +10,7 @@ public class CalculateDouble {
 
         double num1 = Double.parseDouble(strNum1);
         double num2 = Double.parseDouble(strNum2);
-
+ 
         double sum = num1 + num2;
         double difference = num1 - num2;
         double product = num1 * num2;
